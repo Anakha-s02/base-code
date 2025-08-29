@@ -1,0 +1,18 @@
+// console.log("Hello world");
+// console.log("anakha");
+// console.log(5*5);
+// console.log('5'*5);
+// console.log('5'/5);
+// console.log(anakha*5);
+// console.log(anakha*'5');
+// console.log(anakha/'5');
+// console.log(5/'5');
+// console.log(5%5);
+// console.log(10%5);
+// console.log(10%5);
+// console.log(1%10);
+// console.log(1%10);
+// console.log(1%10);
+// console.log(1%10);
+// console.log(1%10);
+// console.log(15%5);
